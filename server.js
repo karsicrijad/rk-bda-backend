@@ -10,10 +10,17 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect(ATLAS_URI, { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true });
-mongoose.connection.once('open', () => {
-    console.log('mongodb:connection_established');
-});
+(async () => {
+    try{
+        await mongoose.connect(ATLAS_URI);
+        mongoose.connection.once('open', () => {
+            console.log('mongodb:connection_established');
+        });
+    }catch(e){
+        console.log(e);
+    }
+})();
+
 
 const AuthRouter = require('./routes/AuthRoutes');
 const NotificationRouter = require('./routes/NotificationRoutes');
