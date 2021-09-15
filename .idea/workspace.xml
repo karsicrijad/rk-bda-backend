@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86fa7e3a-beea-43d8-832d-2f93ff4da1fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xYYfKGPbwT9UPjiu3u4H2x9Dde" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../faris-sisic-eportfolio" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86fa7e3a-beea-43d8-832d-2f93ff4da1fc" name="Default Changelist" comment="" />
+      <created>1630533590383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630533590383</updated>
+      <workItem from="1630533591473" duration="2325000" />
+      <workItem from="1630789521591" duration="37000" />
+      <workItem from="1630852089094" duration="14259000" />
+      <workItem from="1631126244887" duration="3866000" />
+      <workItem from="1631219210641" duration="1729000" />
+      <workItem from="1631230829882" duration="4618000" />
+      <workItem from="1631358790174" duration="2308000" />
+      <workItem from="1631382257846" duration="1926000" />
+      <workItem from="1631396872345" duration="18227000" />
+      <workItem from="1631726223722" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630789556382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630789556382" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1630973737065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1630973737065" />
+    <state x="534" y="200" width="549" height="534" key="find.popup" timestamp="1631457784110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2587" y="253" width="585" height="534" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1630973782805" />
+    <state x="534" y="200" width="549" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1631457784110" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1630970937832">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1630970937832" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1630979564991">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1630979564991" />
+  </component>
+</project>
